@@ -2,7 +2,7 @@
 /*
 Plugin Name: Don't Log Bots
 Plugin URI: http://yourls.org/
-Description: OMG
+Description: wont log certain bots when they check the links
 Version: 1.0
 Author: Ozh
 Author URI: http://ozh.org/
